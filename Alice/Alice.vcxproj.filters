@@ -15,6 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="文本.txt" />
+    <Text Include="Origin.txt" />
   </ItemGroup>
 </Project>
