@@ -16,5 +16,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Origin.txt" />
+    <Text Include="Rabbit.txt" />
   </ItemGroup>
 </Project>
